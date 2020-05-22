@@ -1,0 +1,16 @@
+<div class="toc">
+  <input type="checkbox" role="button" id="toctoggle" class="toctoggle"><div class="toctitle"><h2>Table of contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctoggle"></label></span></div>
+  <ul>
+    <li>1 <a href="#toc1" title="Title One">Title One</a></li>
+    <li>2 <a href="#toc2" title="Title Two">Title Two</a></li>
+    <li>3 <a href="#toc3" title="Title">Title</a></li>
+    <li>4 <a href="#toc4" title="Title">Title</a></li>
+    <li>5 <a href="#toc5" title="Title">Title</a>        इसके बाद सुब हैडिंग के लिए
+      <ul>
+      <li>5.1 <a href="#toc5_1" title="Subtitles Five to One">Subtitles Five to One</a></li>
+      <li>5.2 <a href="#toc5_2" title="Subtitles Five to two">Subtitles Five to two</a></li>
+      </ul>
+    </li>
+    <li>6 <a href="#toc6" title="title 6">Judul Enam</a></li>
+  </ul>
+</div>
